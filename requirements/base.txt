@@ -1,0 +1,13 @@
+django
+
+whitenoise
+
+pillow
+
+gunicorn
+
+django-crispy-forms
+
+psycopg2
+
+
